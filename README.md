@@ -127,7 +127,7 @@ EXTRA TIPS
 LICENSE
 
 -  Software License: BY
-<Provide a license (e.g., MIT) and LICENSE file and/or explain any restrictions on use>
+CC-BY Commercial Use 4.0
         <This should also be in the source code as well>
         <Visit https://choosealicense.com for useful and short summaries on the licenses>
 -  Preferred citation: <Provide a citation that users can reference in publications>
