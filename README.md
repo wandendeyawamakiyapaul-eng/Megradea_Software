@@ -7,6 +7,7 @@ Project name: Magredea Software
 Version: v1
 
 Short description: This is a school tool for manipulate and access of attendance and performance of each child in a school
+
 PROJECT OVERVIEW
 
 Full description: The project shall track the attendance, performance marks and grades of each child in the school.
@@ -128,8 +129,7 @@ LICENSE
 
 -  Software License: BY
 CC-BY Commercial Use 4.0
-        <This should also be in the source code as well>
-        <Visit https://choosealicense.com for useful and short summaries on the licenses>
+        
 -  Preferred citation: <Provide a citation that users can reference in publications>
 
 
