@@ -1,5 +1,4 @@
 Contributor & Authorship Guidelines:
-
 We welcome all contributions to this project via GitHub issues and pull requests. Your ideas matter more than perfect pull requests. All contributions must follow our Guiding Principles and Code of Conduct.
 
 Contributor Guidelines:
